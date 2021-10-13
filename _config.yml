@@ -28,7 +28,7 @@ twitter_username: th0mka
 github_username:  th0mka
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
